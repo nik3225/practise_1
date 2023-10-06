@@ -1,1 +1,1 @@
-## This is just a practise module for the git practise
+## This is just a practise module for the git.
